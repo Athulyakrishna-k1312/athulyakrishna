@@ -9,7 +9,7 @@ My personal Github profile
 ---
 
 ## 🌟 What I'm Learning
-- Python programming
+- programming languages
 - Basics of web development
 - Digital marketing strategies
 
